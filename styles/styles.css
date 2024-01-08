@@ -1,0 +1,128 @@
+/* *{
+  margin:  50px 140px 0px 140px;
+} */
+.container{
+  background-image: url('../B9A1-New-Year-New-Mission/resources/bannerimage.png');
+  width: 1280px;
+height: 600px;
+flex-shrink: 0;
+border-radius: 16px;
+background color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 200%);
+background-blend-mode: multiply;
+margin: 0px auto;
+
+}
+.head-tittle{
+  color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 170px 530px 0px 530px;
+}
+.head-p{
+  color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 76px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+padding: 0px 344px 140px 344px;
+width: 600px;
+height: 165px;
+margin-top: 18px;
+
+}
+
+
+
+.off .off-text h1{
+  color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+#pic{
+  color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.off .off-text p{
+  color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;}
+
+#off-pic{
+  margin: 0 auto;
+  width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+}
+.midnight{
+  display: flex;
+  align-items: center;
+  width: 1320px;
+height: 600px;
+flex-shrink: 0;
+
+
+}
+.second{
+  margin: 120px auto;
+  background-image: url('../resources/vectorrr.png');
+  
+  background-repeat: no-repeat;
+  width: 1320px;
+height: 600px;
+flex-shrink: 0;
+border-top: 120px;
+
+}
+.midnight-party{
+  display: flex;
+width: 319.83px;
+height: 464.662px;
+padding-left: 50px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+}
+.midnight-text h2{
+  color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+align-items: center;
+width: 642px;
+padding-left: 126px;
+}
+.midnight-text p{
+  color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+width: 697px;
+padding-left: 126px;}
+.midnight-text button{margin-left: 158px;
+
+}
