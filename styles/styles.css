@@ -2,13 +2,14 @@
   margin:  50px 140px 0px 140px;
 } */
 .container{
-  background-image: url('../B9A1-New-Year-New-Mission/resources/bannerimage.png');
+  
+  background-image: url('../resources/bi.png');
   width: 1280px;
 height: 600px;
 flex-shrink: 0;
 border-radius: 16px;
-background color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 200%);
-background-blend-mode: multiply;
+
+
 margin: 0px auto;
 
 }
@@ -269,8 +270,7 @@ flex-shrink: 0;
   margin-right: 140px;
 } 
 .sale .is{
-  text-align: center;
-  color: black
+  color: rgba(7, 2, 17, 0.60);
 text-align: center;
 font-family: Inter;
 font-size: 20px;
